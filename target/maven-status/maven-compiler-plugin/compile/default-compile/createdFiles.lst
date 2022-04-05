@@ -1,0 +1,5 @@
+com\testby\bypretest\ByPretestApplication.class
+com\testby\bypretest\controller\ProductController.class
+com\testby\bypretest\model\ProductList.class
+com\testby\bypretest\model\Product.class
+com\testby\bypretest\service\ProductService.class
