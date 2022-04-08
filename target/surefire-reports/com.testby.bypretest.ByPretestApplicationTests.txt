@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.testby.bypretest.ByPretestApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.236 s - in com.testby.bypretest.ByPretestApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.166 s - in com.testby.bypretest.ByPretestApplicationTests
